@@ -1,4 +1,3 @@
-const bodyParser = require("body-parser");
 const express = require("express");
 const mongoose = require("mongoose");
 const { Feedback } = require("./models/feedback");
